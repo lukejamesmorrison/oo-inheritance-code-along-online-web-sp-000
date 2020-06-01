@@ -7,5 +7,11 @@ class Vehicle
     @number = number
   end
 
-  
+  def go
+    "vrrrrrrrooom!"
+  end
+
+  def fill_up_tank
+    "filling up!"
+  end
 end
