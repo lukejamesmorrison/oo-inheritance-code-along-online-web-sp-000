@@ -13,8 +13,8 @@ class Car < vehicle
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 
-  def fill_up_tank
-    "filling up!"
-  end
+  # def fill_up_tank
+  #   "filling up!"
+  # end
 
 end
