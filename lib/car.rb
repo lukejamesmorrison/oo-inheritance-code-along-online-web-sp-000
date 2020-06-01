@@ -6,4 +6,6 @@ class Car < vehicle
     @wheel_size = wheel_size
     @number = number
   end
+
+  
 end
