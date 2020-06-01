@@ -1,5 +1,7 @@
 require_relative "./vehicle.rb"
 
+attr_reader :wheel_size, :wheel_number
+
 class Car < Vehicle
 
   # attr_reader :wheel_size, :number
